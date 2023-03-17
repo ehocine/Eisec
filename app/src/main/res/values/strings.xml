@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Eisec</string>
+
+    <!--    Application screens-->
+    <string name="text_splash">Splash</string>
+    <string name="text_dashboard">Dashboard</string>
+    <string name="text_addTask">Add Task</string>
+    <string name="text_editTask">Edit Task</string>
+    <string name="text_about">About</string>
+    <string name="text_allTask">All Task</string>
+    <string name="text_taskDetails">Task Details</string>
+    <string name="text_project">My Project</string>
+
+    <!--    Empty State -->
+    <string name="text_no_task_title">No tasks yet</string>
+    <string name="text_no_task_description">Be sure to add your first task!</string>
+    <string name="text_no_emoji_description">Sorry we couldn\'t find any matches :(</string>
+    <string name="text_add_a_task">Add a task</string>
+    <string name="text_error_title">Well, this is unexpected…</string>
+    <string name="text_error_description"><![CDATA[Sorry, we\'re having technical issues (as you can see) try to add some task & try again…]]></string>
+
+    <!--    Dashboard-->
+    <string name="text_do_it_now">Do it now</string>
+    <string name="text_decide_when_todo">Decide when to do</string>
+    <string name="text_important_not_urgent">Important Not Urgent</string>
+    <string name="text_important_and_urgent">Urgent and Important</string>
+    <string name="text_delegate_it">Delegate it</string>
+    <string name="text_urgent_not_important">Urgent Not Important</string>
+    <string name="text_dump_it">Dump it!</string>
+    <string name="text_not_important_not_urgent">Not Important Not Urgent</string>
+    <string name="text_my_dashboard">My Dashboard</string>
+    <string name="text_bulb_turn_on">Day mode on</string>
+    <string name="back_button">Back Button</string>
+
+    <!--    Add/Edit Task & Task Details-->
+    <string name="text_title">Title</string>
+    <string name="text_description">Description</string>
+    <string name="text_category">Category</string>
+    <string name="text_due_date_time">Due Date Time</string>
+    <string name="text_importance">Importance</string>
+    <string name="text_save_task">Save Task</string>
+    <string name="text_urgency">Urgency</string>
+    <string name="tetxt_choose_emoji">Choose Emoji</string>
+    <string name="text_edit_button">Edit Button</string>
+    <string name="text_delete_button">Delete Button</string>
+    <string name="text_share_button">Share Button</string>
+    <string name="text_complete">Complete</string>
+    <string name="text_incomplete">Incomplete</string>
+    <string name="text_all_emoji">All Emoji</string>
+    <string name="text_message_share">Title: %s \n\nDescription: %s \n\nCategory: %s \n\n\Priority: %s \n\n\nCreatedAt: %s</string>
+
+    <!--   About-->
+    <string name="text_attribution_and_license"><![CDATA[Attribution & License]]></string>
+    <string name="text_visit">Visit</string>
+    <string name="text_author">Author</string>
+    <string name="text_repo_link">https://www.hocel.com/</string>
+    <string name="text_license">Licensed Under Apache 2.0</string>
+    <string name="text_webview">WebView</string>
+    <string name="text_einsen_logo">Eisec logo</string>
+    <string name="text_four">4</string>
+    <string name="text_search_emoji">Search Emoji…</string>
+    <string name="text_go_back">Go Back!</string>
+    <string name="text_retry">Retry Search</string>
+
+
+    <!--Notification Channel-->
+    <string name="reminder_channel_id" translatable="false">reminders</string>
+    <string name="reminder_channel_name" translatable="false">Reminders</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="have_an_account_login">Have an account?</string>
+    <string name="password_eye">Password Eye</string>
+    <string name="forget_password">Forgot your password?</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="submit">Submit</string>
+    <string name="retrieve_your_password">Retrieve your password</string>
+    <string name="register_an_account">Register</string>
+    <string name="verify_inputs">Please verify your inputs</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="verification_email_sent">Verification email sent</string>
+    <string name="time_out">Time out: couldn\'t connect</string>
+    <string name="email_address_not_verified">Your email address is not verified yet</string>
+    <string name="name">Name</string>
+    <string name="email_already_verified">Your email has already been verified</string>
+    <string name="email_sent">Email sent</string>
+    <string name="successfully_signed_out">Successfully signed out</string>
+    <string name="device_not_connected">Device is not connected to the internet</string>
+    <string name="error_occurred">An error occurred</string>
+
+</resources>
